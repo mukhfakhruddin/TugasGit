@@ -7,3 +7,4 @@ tambah baris ke 6
 tambah baris ke 7
 tambah baris lagi ke 8
 tambah baris lagi ke 9
+10 oke
